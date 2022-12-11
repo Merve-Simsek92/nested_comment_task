@@ -35,6 +35,7 @@
   /* padding-left: 2rem; */
   justify-content: left;
   display: flex;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {

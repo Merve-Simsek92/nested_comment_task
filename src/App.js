@@ -128,7 +128,7 @@ const Comment = ({ comment, addComment }) => {
           ) : (
             <a
         
-              style={{ cursor: "pointer", fontSize: "0.7rem", color: "blue", }}
+              style={{ cursor: "pointer", fontSize: "0.7rem", color:"dodgerblue", }}
               onClick={() => setShowAddComponet(true)}
             >
               Add a reply
