@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nested_comment_task/static/css/main.b9ecc1db.css",
+    "main.js": "/nested_comment_task/static/js/main.21a84042.js",
+    "static/js/787.fc430756.chunk.js": "/nested_comment_task/static/js/787.fc430756.chunk.js",
+    "index.html": "/nested_comment_task/index.html",
+    "main.b9ecc1db.css.map": "/nested_comment_task/static/css/main.b9ecc1db.css.map",
+    "main.21a84042.js.map": "/nested_comment_task/static/js/main.21a84042.js.map",
+    "787.fc430756.chunk.js.map": "/nested_comment_task/static/js/787.fc430756.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9ecc1db.css",
+    "static/js/main.21a84042.js"
+  ]
+}
