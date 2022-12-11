@@ -53,7 +53,7 @@ function App() {
   };
   return (
     <div className="App">
-      <header style={{marginBottom : '2rem', fontSize : '2rem'}}>Nested Comment Example</header>
+      <header style={{marginBottom : '2rem', fontSize : '2rem'}} className="text-primary">Nested Comment Example</header>
       <div className="comments-container">
         <input
           type="text"
